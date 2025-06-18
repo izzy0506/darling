@@ -1,0 +1,62 @@
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Hi Darling</title>
+
+        <style>
+        body>
+        margin: 0;
+      padding: 0;
+      font-family: 'Georgia', serif;
+      background: linear-gradient(to right, #ffdde1, #ee9ca7);
+      color: #333;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+
+     h1 {
+      color: #c94b4b;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      text-align: justify;
+    }
+
+    .signature {
+      text-align: right;
+      font-style: italic;
+      margin-top: 30px;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Hi Darling ❤️</h1>
+    <p>
+      I just want to take a moment to let you know how much I love and appreciate you — not just today, but every single day.
+
+    </p>
+    <p>
+      Thank you for being patient, for being kind, and for loving me as I am.
+      I promise to always support you, care for you.
+    </p>
+    <p class="signature">
+      Cutie Patotie,<br>
+      Izzy
+    </p>
+  </div>
+</body>
+</html>
